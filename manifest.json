@@ -30,11 +30,6 @@
       "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
       "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
       "size": 5369475
-    },
-    {
-      "path": "options.txt",
-      "sha1": "7fab092183094aec8aa3783b6983b78bf23fb556",
-      "size": 4352
     }
   ]
 }

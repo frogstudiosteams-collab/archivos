@@ -1,0 +1,40 @@
+{
+  "manifest_version": 1,
+  "base_url": "https://frogstudiosteams-collab.github.io/archivos/",
+  "minecraft_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": "",
+  "server_address": "s7.mia.us.tarohosting.com:33729",
+  "files": [
+    {
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
+      "size": 2452735
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.12.6-mc1.21.1.jar",
+      "sha1": "ecef905897a8837ac1ca6a073e2533a94bf7590a",
+      "size": 1873853
+    },
+    {
+      "path": "mods/punchy-2.8a-fabric-1.21.1.jar",
+      "sha1": "a0a3e83e1663d0fc0a91272150c7d4a7c6d3466a",
+      "size": 1824850
+    },
+    {
+      "path": "mods/repo-heads-1.2.0+1.21.1.jar",
+      "sha1": "a796b82090e09c196f899266007633addbbe2a4b",
+      "size": 207370
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
+      "size": 5369475
+    },
+    {
+      "path": "options.txt",
+      "sha1": "7fab092183094aec8aa3783b6983b78bf23fb556",
+      "size": 4352
+    }
+  ]
+}

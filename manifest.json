@@ -300,13 +300,13 @@
   "branding_files": [
     {
       "path": "banner.jpg",
-      "sha1": "599657c644f790d64a997344608b6912fad8bbc3",
-      "size": 99656
+      "sha1": "53640ad20e2b1b8b35c378cbb83a24a54e94030c",
+      "size": 18456
     },
     {
       "path": "icon.png",
-      "sha1": "e87e7868435ec0fd7227e6895c1daf7030c1ae54",
-      "size": 1002049
+      "sha1": "7a270824c1d7c4f91e83187551509b92148adac9",
+      "size": 10105
     }
   ]
 }

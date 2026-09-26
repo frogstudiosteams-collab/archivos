@@ -296,5 +296,17 @@
       "sha1": "1f92bd6a7816937b8544701300106ebb6d68e083",
       "size": 5140
     }
+  ],
+  "branding_files": [
+    {
+      "path": "banner.jpg",
+      "sha1": "599657c644f790d64a997344608b6912fad8bbc3",
+      "size": 99656
+    },
+    {
+      "path": "icon.png",
+      "sha1": "e87e7868435ec0fd7227e6895c1daf7030c1ae54",
+      "size": 1002049
+    }
   ]
 }

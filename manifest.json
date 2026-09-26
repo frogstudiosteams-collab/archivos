@@ -1,35 +1,305 @@
 {
   "manifest_version": 1,
   "base_url": "https://frogstudiosteams-collab.github.io/archivos/",
-  "minecraft_version": "1.21.1",
+  "minecraft_version": "1.20.1",
   "loader": "fabric",
   "loader_version": "",
   "server_address": "s7.mia.us.tarohosting.com:33729",
   "files": [
     {
-      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
-      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
-      "size": 2452735
+      "path": "config/borderlessmining.json",
+      "sha1": "023a57dd3546fa35b4d0b25147d234c20f69bbe0",
+      "size": 277
     },
     {
-      "path": "mods/notenoughanimations-fabric-1.12.6-mc1.21.1.jar",
-      "sha1": "ecef905897a8837ac1ca6a073e2533a94bf7590a",
-      "size": 1873853
+      "path": "config/camerapture.client.json",
+      "sha1": "969c2b3e6906dd3dad649a8f7b4cd95c9ce954a4",
+      "size": 136
     },
     {
-      "path": "mods/punchy-2.8a-fabric-1.21.1.jar",
-      "sha1": "a0a3e83e1663d0fc0a91272150c7d4a7c6d3466a",
-      "size": 1824850
+      "path": "config/camerapture.server.json",
+      "sha1": "d3214bdc0fa542323b59a15ca0eab734b03fb724",
+      "size": 236
     },
     {
-      "path": "mods/repo-heads-1.2.0+1.21.1.jar",
-      "sha1": "a796b82090e09c196f899266007633addbbe2a4b",
-      "size": 207370
+      "path": "config/cardinal-components-api.properties",
+      "sha1": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c",
+      "size": 273
     },
     {
-      "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
-      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
-      "size": 5369475
+      "path": "config/collective.json5",
+      "sha1": "dd275eba23d25c50bea5ca96f5243ec1782fc435",
+      "size": 827
+    },
+    {
+      "path": "config/configured-client.toml",
+      "sha1": "c4b064426a9c637df9d373cd60839250caf1b2a2",
+      "size": 93
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "sha1": "7a38e0cca9c96d3dde6b241041e966451fd56d18",
+      "size": 290
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "sha1": "69e297dba67843f367101f4efc5d27bbcda27c1e",
+      "size": 1525
+    },
+    {
+      "path": "config/firstperson.json",
+      "sha1": "53d62464761e0dc115e4aea24a9818c3fa6ecec2",
+      "size": 571
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "sha1": "55e5f6d3e9f7fcbc87df5dab701aaec1ac7fc374",
+      "size": 1582
+    },
+    {
+      "path": "config/iris.properties",
+      "sha1": "c77adf37761191b8e94c35ed2190e15839200d12",
+      "size": 254
+    },
+    {
+      "path": "config/justzoom/config.txt",
+      "sha1": "f40073524bb4bd11c01f04d0b1cbfacf7e5e6b00",
+      "size": 474
+    },
+    {
+      "path": "config/kits.properties",
+      "sha1": "116ea2d5e6ff6aad09e06cc0dad71adca4980352",
+      "size": 168
+    },
+    {
+      "path": "config/kits/camera.nbt",
+      "sha1": "dea41a568fd1b358a9ffeaf4332b4eff2fa7e77d",
+      "size": 288
+    },
+    {
+      "path": "config/kits/food.nbt",
+      "sha1": "9d8af7e268278d321dc40dec37e0c780abcb1ead",
+      "size": 141
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322
+    },
+    {
+      "path": "config/midnightlib.json",
+      "sha1": "9a5bd042eb352a8d2fb2f946bba8d31d463abd37",
+      "size": 34
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "sha1": "9fa97f74995e55ca93c832a81b3d67488ab9ca13",
+      "size": 2386
+    },
+    {
+      "path": "config/notenoughcrashes.json",
+      "sha1": "2b792fb7eb312e343c5f5fae080e967de0aae1f7",
+      "size": 156
+    },
+    {
+      "path": "config/skinlayers.json",
+      "sha1": "734feeda8583394bbc92acb6c17281857668a284",
+      "size": 430
+    },
+    {
+      "path": "config/spb-revamped.json",
+      "sha1": "9dc574762e5816665df83ed5554366a4683b3867",
+      "size": 625
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "sha1": "f5da9edf758e23ecb55454873d2e6431e8d0700b",
+      "size": 4401
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "sha1": "0fa7f5c61a3ce26fcfd6a96d6a115befce1c876d",
+      "size": 2502
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "sha1": "4eaca99c316dc0e047aa47897d73689054c1474d",
+      "size": 37
+    },
+    {
+      "path": "config/welcomemessage.json5",
+      "sha1": "2bd188192dfb59e6f3e0648aeba3cbe5386cd384",
+      "size": 2098
+    },
+    {
+      "path": "mods/Boxlib-fabric-11.3.2.jar",
+      "sha1": "5a69dd2cf5bf024702779be40bbbfba03c1daf43",
+      "size": 268834
+    },
+    {
+      "path": "mods/Camerapture-1.10.12+mc1.20.1-fabric.jar",
+      "sha1": "71f57b4da9aae2d62dd82412d98a397c70a4a895",
+      "size": 1974800
+    },
+    {
+      "path": "mods/Essential_1-3-10-9_fabric_1-20-1.jar",
+      "sha1": "f11cd98f7d7be716a2a019fc5d7205f27e9f9823",
+      "size": 52826751
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
+      "size": 396628
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+      "sha1": "13282e818c9b5d20ba9f50949e3776d678d6926d",
+      "size": 1084397
+    },
+    {
+      "path": "mods/auto_mod-1.0-fabric-1.20.1.jar",
+      "sha1": "5009ed9ed10868fc20afe6d761105f53879f1c06",
+      "size": 7022
+    },
+    {
+      "path": "mods/borderless-mining-1.1.8+1.20.1.jar",
+      "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
+      "size": 118295
+    },
+    {
+      "path": "mods/collective-1.20.1-8.25.jar",
+      "sha1": "5ec26087b60946e24048bce96997b90b55e6369b",
+      "size": 697968
+    },
+    {
+      "path": "mods/configured-fabric-1.20.1-2.2.3.jar",
+      "sha1": "c85adcba2f4cd0252dc8698d00a24b1e283d2cb8",
+      "size": 591886
+    },
+    {
+      "path": "mods/fabric-api-0.92.9+1.20.1.jar",
+      "sha1": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
+      "size": 2111565
+    },
+    {
+      "path": "mods/fake_death_messages-fabric-1.20.1-1.0.0.jar",
+      "sha1": "a2e3888bbba8381d3cb82f5901c7a96666c8ce77",
+      "size": 945898
+    },
+    {
+      "path": "mods/fake_join_leave-fabric-1.20.1-1.0.0.jar",
+      "sha1": "bc68e0db095608165682f9960925d786ca6a7b0a",
+      "size": 14580
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-fabric.jar",
+      "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
+      "size": 125197
+    },
+    {
+      "path": "mods/firstperson-fabric-2.7.1-mc1.20.1.jar",
+      "sha1": "cc6dffa74a0027b4b16a9617cb3d6e41cdea92af",
+      "size": 1616237
+    },
+    {
+      "path": "mods/geckolib-fabric-1.20.1-4.7.2.jar",
+      "sha1": "fb48824b8092ac9a790e87f774e551bf899d9c30",
+      "size": 1042853
+    },
+    {
+      "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
+      "sha1": "30b645b2e12598c94c387fed519f91f3ae034977",
+      "size": 1069328
+    },
+    {
+      "path": "mods/hideexperimentalwarning-1.20.1-1.2.jar",
+      "sha1": "9ae7fa690a25fb809f12bc683412071f9d8a3405",
+      "size": 14256
+    },
+    {
+      "path": "mods/horror_responses_fabric_-1.0.1-fabric-1.20.1.jar",
+      "sha1": "f5eb587009bdf042c88aae26ad0a9cd490d6318c",
+      "size": 1701417
+    },
+    {
+      "path": "mods/horrormessages-1.0.1-fabric-1.20.1.jar",
+      "sha1": "31fbf44251803cf23588351d635b56afaaea0918",
+      "size": 18377
+    },
+    {
+      "path": "mods/justzoom_fabric_2.1.0_MC_1.20.1.jar",
+      "sha1": "538a90dd2eced7704a900d53b9cbc5cf5cea6b64",
+      "size": 196623
+    },
+    {
+      "path": "mods/kits-1.6.0-mc1.20.1.jar",
+      "sha1": "ce84515d6b5ffce42ef860b3ad8d795c307eb4d8",
+      "size": 211115
+    },
+    {
+      "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
+      "size": 892067
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar",
+      "sha1": "fb5ee127fabacd4489cfee82a8973693fc066485",
+      "size": 1943280
+    },
+    {
+      "path": "mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar",
+      "sha1": "d9cb6a26df4b1785fbcaae0ac906df0da17d0280",
+      "size": 138548
+    },
+    {
+      "path": "mods/random_advancement-fabric-1.20.1-1.0.0.jar",
+      "sha1": "36a9109a5930b117438b3bcf36f483c535682004",
+      "size": 949096
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
+      "sha1": "e9f9793aff2a2d2c370b8c7d6f7f53c0f6dc30c6",
+      "size": 1973785
+    },
+    {
+      "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
+      "sha1": "10f5ab75c46fe88f33e1a8a9e38e704cf62f9419",
+      "size": 5263604
+    },
+    {
+      "path": "mods/welcomemessage-1.20.1-2.7.jar",
+      "sha1": "f23877136d34974bde67f1aa7e042c25df29a2d1",
+      "size": 23729
+    },
+    {
+      "path": "options.txt",
+      "sha1": "1f92bd6a7816937b8544701300106ebb6d68e083",
+      "size": 5140
     }
   ]
 }

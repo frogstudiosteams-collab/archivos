@@ -357,6 +357,11 @@
       "size": 1616237
     },
     {
+      "path": "mods/flashlight-creepermeyt-v1.1-mc1.20.1.jar",
+      "sha1": "27a255813b7cf4768c9dba5dceb2d4b8a44f878d",
+      "size": 594200
+    },
+    {
       "path": "mods/geckolib-fabric-1.20.1-4.7.2.jar",
       "sha1": "fb48824b8092ac9a790e87f774e551bf899d9c30",
       "size": 1042853
@@ -420,6 +425,16 @@
       "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
       "sha1": "e9f9793aff2a2d2c370b8c7d6f7f53c0f6dc30c6",
       "size": 1973785
+    },
+    {
+      "path": "mods/sodium-extra-0.5.9+mc1.20.1.jar",
+      "sha1": "0f97ec3f395b223848a63573b1a46cbecf97f19f",
+      "size": 370701
+    },
+    {
+      "path": "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
+      "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5",
+      "size": 971552
     },
     {
       "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",

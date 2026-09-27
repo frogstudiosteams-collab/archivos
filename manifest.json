@@ -427,16 +427,6 @@
       "size": 1973785
     },
     {
-      "path": "mods/sodium-extra-0.5.9+mc1.20.1.jar",
-      "sha1": "0f97ec3f395b223848a63573b1a46cbecf97f19f",
-      "size": 370701
-    },
-    {
-      "path": "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
-      "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5",
-      "size": 971552
-    },
-    {
       "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
       "sha1": "10f5ab75c46fe88f33e1a8a9e38e704cf62f9419",
       "size": 5263604

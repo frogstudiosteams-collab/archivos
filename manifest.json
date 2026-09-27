@@ -37,9 +37,124 @@
       "size": 93
     },
     {
+      "path": "config/drippyloadingscreen/options.txt",
+      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
+      "size": 2465
+    },
+    {
       "path": "config/fabric/indigo-renderer.properties",
       "sha1": "7a38e0cca9c96d3dde6b241041e966451fd56d18",
       "size": 290
+    },
+    {
+      "path": "config/fancymenu/assets/background_screen.png",
+      "sha1": "9c73276193b070fdb8ac3e942caa573e3f21f866",
+      "size": 233217
+    },
+    {
+      "path": "config/fancymenu/assets/backrms_background_2.png",
+      "sha1": "40bdeb322277bf2403e64eed484757bec25030e8",
+      "size": 382241
+    },
+    {
+      "path": "config/fancymenu/assets/backrooms_logo.png",
+      "sha1": "f35eb6f43fb93f215ba01a7c088c4cda4830ca43",
+      "size": 15180
+    },
+    {
+      "path": "config/fancymenu/assets/wn_logo.png",
+      "sha1": "12675bd4ad9dc8cc77b900d73cd9af6fe905f601",
+      "size": 1070905
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha1": "a8f0f9e2f5d8dac720fbe4c6d0146357c4e4c871",
+      "size": 128
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "79d9571174e23b5712540b80c375d3a4dbecb64f",
+      "size": 17859
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "04638281bdd387c6f8624717eb0c456c986aa1ae",
+      "size": 54032
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layout.txt",
+      "sha1": "917b2e539febc7d9ce5018a3179fb065f91ad902",
+      "size": 10497
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec",
+      "size": 4400
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23
     },
     {
       "path": "config/ferritecore.mixin.properties",
@@ -197,6 +312,16 @@
       "size": 591886
     },
     {
+      "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
+      "sha1": "94bddfb517fa4badec2803249fbfd68c21cb3eea",
+      "size": 277393
+    },
+    {
+      "path": "mods/fabric-api-0.92.12+1.20.1.jar",
+      "sha1": "3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4",
+      "size": 2137232
+    },
+    {
       "path": "mods/fabric-api-0.92.9+1.20.1.jar",
       "sha1": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
       "size": 2111565
@@ -210,6 +335,16 @@
       "path": "mods/fake_join_leave-fabric-1.20.1-1.0.0.jar",
       "sha1": "bc68e0db095608165682f9960925d786ca6a7b0a",
       "size": 14580
+    },
+    {
+      "path": "mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
+      "sha1": "0387c2cd09eac157ce590bd5c02f3259a95e4981",
+      "size": 419854
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.12_MC_1.20.1.jar",
+      "sha1": "5d006ce563daecc4b86f99a02138568c230e8ca9",
+      "size": 26214165
     },
     {
       "path": "mods/ferritecore-6.0.1-fabric.jar",
@@ -262,6 +397,11 @@
       "size": 892067
     },
     {
+      "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67",
+      "size": 39696
+    },
+    {
       "path": "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar",
       "sha1": "fb5ee127fabacd4489cfee82a8973693fc066485",
       "size": 1943280
@@ -300,13 +440,13 @@
   "branding_files": [
     {
       "path": "banner.jpg",
-      "sha1": "53640ad20e2b1b8b35c378cbb83a24a54e94030c",
-      "size": 18456
+      "sha1": "24c878fc47b19ae99de9898e9bdd9db8a4fbf823",
+      "size": 423930
     },
     {
       "path": "icon.png",
-      "sha1": "7a270824c1d7c4f91e83187551509b92148adac9",
-      "size": 10105
+      "sha1": "3553be094c0cead36ceba4dc987d5d51dc27fab4",
+      "size": 702475
     }
   ]
 }

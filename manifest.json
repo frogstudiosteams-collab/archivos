@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "base_url": "https://frogstudiosteams-collab.github.io/archivos/",
-  "minecraft_version": "1.20.1",
+  "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "",
-  "server_address": "s7.mia.us.tarohosting.com:33729",
+  "server_address": "REVISA-ESTO:25565",
   "files": [
     {
       "path": "config/borderlessmining.json",
@@ -274,167 +274,200 @@
     {
       "path": "mods/Boxlib-fabric-11.3.2.jar",
       "sha1": "5a69dd2cf5bf024702779be40bbbfba03c1daf43",
-      "size": 268834
+      "size": 268834,
+      "remote": "assets/73037be94d53e4a311e5.dat"
     },
     {
       "path": "mods/Camerapture-1.10.12+mc1.20.1-fabric.jar",
       "sha1": "71f57b4da9aae2d62dd82412d98a397c70a4a895",
-      "size": 1974800
+      "size": 1974800,
+      "remote": "assets/b51dcf14d18971e42d97.dat"
     },
     {
       "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
       "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
-      "size": 396628
+      "size": 396628,
+      "remote": "assets/ed638a274abfb864c673.dat"
     },
     {
       "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
       "sha1": "13282e818c9b5d20ba9f50949e3776d678d6926d",
-      "size": 1084397
+      "size": 1084397,
+      "remote": "assets/64fad4153f3ed66683c6.dat"
     },
     {
       "path": "mods/auto_mod-1.0-fabric-1.20.1.jar",
       "sha1": "5009ed9ed10868fc20afe6d761105f53879f1c06",
-      "size": 7022
+      "size": 7022,
+      "remote": "assets/4fccc5533e282cc5ca7b.dat"
     },
     {
       "path": "mods/borderless-mining-1.1.8+1.20.1.jar",
       "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
-      "size": 118295
+      "size": 118295,
+      "remote": "assets/a73906018e6d4f62f56e.dat"
     },
     {
       "path": "mods/collective-1.20.1-8.25.jar",
       "sha1": "5ec26087b60946e24048bce96997b90b55e6369b",
-      "size": 697968
+      "size": 697968,
+      "remote": "assets/b0163b852dae5fac1bb2.dat"
     },
     {
       "path": "mods/configured-fabric-1.20.1-2.2.3.jar",
       "sha1": "c85adcba2f4cd0252dc8698d00a24b1e283d2cb8",
-      "size": 591886
+      "size": 591886,
+      "remote": "assets/e311125a6fd60bd73409.dat"
     },
     {
       "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
       "sha1": "94bddfb517fa4badec2803249fbfd68c21cb3eea",
-      "size": 277393
+      "size": 277393,
+      "remote": "assets/0ded62194811ba46ba29.dat"
     },
     {
       "path": "mods/fabric-api-0.92.12+1.20.1.jar",
       "sha1": "3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4",
-      "size": 2137232
+      "size": 2137232,
+      "remote": "assets/c7bda63ad091168e19fd.dat"
     },
     {
       "path": "mods/fabric-api-0.92.9+1.20.1.jar",
       "sha1": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
-      "size": 2111565
+      "size": 2111565,
+      "remote": "assets/0ce83eeb4060c5bb4894.dat"
     },
     {
       "path": "mods/fake_death_messages-fabric-1.20.1-1.0.0.jar",
       "sha1": "a2e3888bbba8381d3cb82f5901c7a96666c8ce77",
-      "size": 945898
+      "size": 945898,
+      "remote": "assets/f66543b91f2d85983809.dat"
     },
     {
       "path": "mods/fake_join_leave-fabric-1.20.1-1.0.0.jar",
       "sha1": "bc68e0db095608165682f9960925d786ca6a7b0a",
-      "size": 14580
+      "size": 14580,
+      "remote": "assets/7ca056848a641344d070.dat"
     },
     {
       "path": "mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
       "sha1": "0387c2cd09eac157ce590bd5c02f3259a95e4981",
-      "size": 419854
+      "size": 419854,
+      "remote": "assets/0ce24c778aea2f1170c8.dat"
     },
     {
       "path": "mods/fancymenu_fabric_3.9.12_MC_1.20.1.jar",
       "sha1": "5d006ce563daecc4b86f99a02138568c230e8ca9",
-      "size": 26214165
+      "size": 26214165,
+      "remote": "assets/ff817371894ce8e451f4.dat"
     },
     {
       "path": "mods/ferritecore-6.0.1-fabric.jar",
       "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
-      "size": 125197
+      "size": 125197,
+      "remote": "assets/9dcaa3771b161dccf921.dat"
     },
     {
       "path": "mods/firstperson-fabric-2.7.1-mc1.20.1.jar",
       "sha1": "cc6dffa74a0027b4b16a9617cb3d6e41cdea92af",
-      "size": 1616237
+      "size": 1616237,
+      "remote": "assets/58b8951d0b1bbd099aa7.dat"
     },
     {
       "path": "mods/flashlight-creepermeyt-v1.1-mc1.20.1.jar",
       "sha1": "27a255813b7cf4768c9dba5dceb2d4b8a44f878d",
-      "size": 594200
+      "size": 594200,
+      "remote": "assets/661c34dcbdf9340d6ee8.dat"
     },
     {
       "path": "mods/geckolib-fabric-1.20.1-4.7.2.jar",
       "sha1": "fb48824b8092ac9a790e87f774e551bf899d9c30",
-      "size": 1042853
+      "size": 1042853,
+      "remote": "assets/4519fc63bfcd0a15d17a.dat"
     },
     {
       "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
       "sha1": "30b645b2e12598c94c387fed519f91f3ae034977",
-      "size": 1069328
+      "size": 1069328,
+      "remote": "assets/956e8f6cf8c4c498157e.dat"
     },
     {
       "path": "mods/hideexperimentalwarning-1.20.1-1.2.jar",
       "sha1": "9ae7fa690a25fb809f12bc683412071f9d8a3405",
-      "size": 14256
+      "size": 14256,
+      "remote": "assets/a217b8555c13b863b4c0.dat"
     },
     {
       "path": "mods/horror_responses_fabric_-1.0.1-fabric-1.20.1.jar",
       "sha1": "f5eb587009bdf042c88aae26ad0a9cd490d6318c",
-      "size": 1701417
+      "size": 1701417,
+      "remote": "assets/3063531370cd037ff5c9.dat"
     },
     {
       "path": "mods/horrormessages-1.0.1-fabric-1.20.1.jar",
       "sha1": "31fbf44251803cf23588351d635b56afaaea0918",
-      "size": 18377
+      "size": 18377,
+      "remote": "assets/0fd8cabe2e0cd394d995.dat"
     },
     {
       "path": "mods/justzoom_fabric_2.1.0_MC_1.20.1.jar",
       "sha1": "538a90dd2eced7704a900d53b9cbc5cf5cea6b64",
-      "size": 196623
+      "size": 196623,
+      "remote": "assets/3d58ec7ba0f75a8bba14.dat"
     },
     {
       "path": "mods/kits-1.6.0-mc1.20.1.jar",
       "sha1": "ce84515d6b5ffce42ef860b3ad8d795c307eb4d8",
-      "size": 211115
+      "size": 211115,
+      "remote": "assets/76c061fb5f783f0add85.dat"
     },
     {
       "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
       "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
-      "size": 892067
+      "size": 892067,
+      "remote": "assets/5297dd6fb18ebfd107d8.dat"
     },
     {
       "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
       "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67",
-      "size": 39696
+      "size": 39696,
+      "remote": "assets/366bf8eb5e19fc1a4a12.dat"
     },
     {
       "path": "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar",
       "sha1": "fb5ee127fabacd4489cfee82a8973693fc066485",
-      "size": 1943280
+      "size": 1943280,
+      "remote": "assets/1ffa11b16cee9321adce.dat"
     },
     {
       "path": "mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar",
       "sha1": "d9cb6a26df4b1785fbcaae0ac906df0da17d0280",
-      "size": 138548
+      "size": 138548,
+      "remote": "assets/8836ef55da4074f2d511.dat"
     },
     {
       "path": "mods/random_advancement-fabric-1.20.1-1.0.0.jar",
       "sha1": "36a9109a5930b117438b3bcf36f483c535682004",
-      "size": 949096
+      "size": 949096,
+      "remote": "assets/289be25ccba026b1973b.dat"
     },
     {
       "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
       "sha1": "e9f9793aff2a2d2c370b8c7d6f7f53c0f6dc30c6",
-      "size": 1973785
+      "size": 1973785,
+      "remote": "assets/986473414798df3b3ece.dat"
     },
     {
       "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
       "sha1": "10f5ab75c46fe88f33e1a8a9e38e704cf62f9419",
-      "size": 5263604
+      "size": 5263604,
+      "remote": "assets/0954b6fed63842850ddd.dat"
     },
     {
       "path": "mods/welcomemessage-1.20.1-2.7.jar",
       "sha1": "f23877136d34974bde67f1aa7e042c25df29a2d1",
-      "size": 23729
+      "size": 23729,
+      "remote": "assets/a4e6931d4780d934fb4f.dat"
     },
     {
       "path": "options.txt",
@@ -452,6 +485,11 @@
       "path": "icon.png",
       "sha1": "3553be094c0cead36ceba4dc987d5d51dc27fab4",
       "size": 702475
+    },
+    {
+      "path": "news.json",
+      "sha1": "1f38fe5b09c131cd8c7526b118a47b197b9cad46",
+      "size": 223
     }
   ]
 }

@@ -1,70 +1,75 @@
 {
   "manifest_version": 1,
   "base_url": "https://frogstudiosteams-collab.github.io/archivos/",
-  "minecraft_version": "1.21.1",
-  "loader": "fabric",
+  "minecraft_version": "1.20.1",
+  "loader": "forge",
   "loader_version": "",
   "server_address": "REVISA-ESTO:25565",
   "files": [
-    {
-      "path": "config/borderlessmining.json",
-      "sha1": "023a57dd3546fa35b4d0b25147d234c20f69bbe0",
-      "size": 277
-    },
-    {
-      "path": "config/camerapture.client.json",
-      "sha1": "969c2b3e6906dd3dad649a8f7b4cd95c9ce954a4",
-      "size": 136
-    },
-    {
-      "path": "config/camerapture.server.json",
-      "sha1": "d3214bdc0fa542323b59a15ca0eab734b03fb724",
-      "size": 236
-    },
-    {
-      "path": "config/cardinal-components-api.properties",
-      "sha1": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c",
-      "size": 273
-    },
-    {
-      "path": "config/collective.json5",
-      "sha1": "dd275eba23d25c50bea5ca96f5243ec1782fc435",
-      "size": 827
-    },
-    {
-      "path": "config/configured-client.toml",
-      "sha1": "c4b064426a9c637df9d373cd60839250caf1b2a2",
-      "size": 93
-    },
     {
       "path": "config/drippyloadingscreen/options.txt",
       "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
       "size": 2465
     },
     {
-      "path": "config/fabric/indigo-renderer.properties",
-      "sha1": "7a38e0cca9c96d3dde6b241041e966451fd56d18",
-      "size": 290
+      "path": "config/fancymenu/assets/background_deathcore.png",
+      "sha1": "40d17b35bef6b90c2494675fb208447405bf74c5",
+      "size": 5327648
     },
     {
-      "path": "config/fancymenu/assets/background_screen.png",
-      "sha1": "9c73276193b070fdb8ac3e942caa573e3f21f866",
-      "size": 233217
+      "path": "config/fancymenu/assets/deathcore_background_plantilla.png",
+      "sha1": "c048f2814c114c390563df88d11e68d653a05d40",
+      "size": 1399999
     },
     {
-      "path": "config/fancymenu/assets/backrms_background_2.png",
-      "sha1": "40bdeb322277bf2403e64eed484757bec25030e8",
-      "size": 382241
+      "path": "config/fancymenu/assets/deathcore_marca_de_agua_warden.png",
+      "sha1": "29ead032474ab4797a10de05bf8c95abeea74284",
+      "size": 354524
     },
     {
-      "path": "config/fancymenu/assets/backrooms_logo.png",
-      "sha1": "f35eb6f43fb93f215ba01a7c088c4cda4830ca43",
-      "size": 15180
+      "path": "config/fancymenu/assets/deathcore_render.png",
+      "sha1": "f1b93f04b2061a61028bd9f6c12f3af007732432",
+      "size": 80429
     },
     {
-      "path": "config/fancymenu/assets/wn_logo.png",
-      "sha1": "12675bd4ad9dc8cc77b900d73cd9af6fe905f601",
-      "size": 1070905
+      "path": "config/fancymenu/assets/deathcore_render_2.png",
+      "sha1": "0f014a7897d65cd61b8a384efaa75aa62c5c0dcc",
+      "size": 327570
+    },
+    {
+      "path": "config/fancymenu/assets/deathcore_ruleta_hd.png",
+      "sha1": "4ed4b76ae112afd11b89232ebe7fec21cb057cdf",
+      "size": 6717
+    },
+    {
+      "path": "config/fancymenu/assets/deathcore_titulo.png",
+      "sha1": "75d480174b5224125f4488b98ba8861eebc857e7",
+      "size": 1720708
+    },
+    {
+      "path": "config/fancymenu/assets/deathcore_titulo_actualizado.png",
+      "sha1": "7557c874ad55b5cf4ca59999e82ca882b78f0fda",
+      "size": 380110
+    },
+    {
+      "path": "config/fancymenu/assets/deathcorelogofinal.png",
+      "sha1": "712ae89ea327e942a9a024c96a48e80dc4fe330f",
+      "size": 608320
+    },
+    {
+      "path": "config/fancymenu/assets/deathcoresinbrillo.png",
+      "sha1": "0312930c45122ca25afeddba702c479882e30e84",
+      "size": 590894
+    },
+    {
+      "path": "config/fancymenu/assets/image.png",
+      "sha1": "7df4925a156257d45c40f42da45c7850374d39f2",
+      "size": 2371189
+    },
+    {
+      "path": "config/fancymenu/assets/ruleta_deathcore_bonita.png",
+      "sha1": "2b7216a2a671900c75eb9b7527765b24a201d2a7",
+      "size": 1408
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
@@ -73,33 +78,68 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "sha1": "a8f0f9e2f5d8dac720fbe4c6d0146357c4e4c871",
-      "size": 128
+      "sha1": "881f3163c9f3345d1f81e944aa15cde79d1b57ea",
+      "size": 560
     },
     {
-      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "sha1": "79d9571174e23b5712540b80c375d3a4dbecb64f",
-      "size": 17859
+      "path": "config/fancymenu/customization/deathcore_controls_screen_layout.txt",
+      "sha1": "26f98f1260e75db47c3dc09bc0f4673730721900",
+      "size": 29542
     },
     {
-      "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "04638281bdd387c6f8624717eb0c456c986aa1ae",
-      "size": 54032
+      "path": "config/fancymenu/customization/deathcore_drippy_loading_overlay_layout.txt",
+      "sha1": "1c5c629bb1539be02b5458b694455a8fe7fd32aa",
+      "size": 17876
     },
     {
-      "path": "config/fancymenu/customization/universal_layout.txt",
-      "sha1": "917b2e539febc7d9ce5018a3179fb065f91ad902",
-      "size": 10497
+      "path": "config/fancymenu/customization/deathcore_language_select_screen_layout.txt",
+      "sha1": "2e524e8bda80106addf733627702a7ee5b7d41fc",
+      "size": 21938
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_layout.txt",
+      "sha1": "9e163a721ca4a66489e0a01171294c05f85e1bae",
+      "size": 56219
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_layout_escape.txt",
+      "sha1": "584ccd737ae28b6b22c7c745d162b0eb81e39f76",
+      "size": 40120
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_mouse_settings_screen_layout.txt",
+      "sha1": "8901a8f7927e9c1a18258e860d504722e8a055e0",
+      "size": 19169
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_multiplayer_screen.txt",
+      "sha1": "e2f2e21811499f53602e60916da21eee489afa7a",
+      "size": 33589
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_options_screen_layout.txt",
+      "sha1": "abe58737356acc7d3d8c402e72e5509ac2338ce7",
+      "size": 46621
+    },
+    {
+      "path": "config/fancymenu/customization/deathcore_video_settings_screen_layout.txt",
+      "sha1": "54f399d2689a0f3fd5930e4454c3a145f04290fc",
+      "size": 19223
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
-      "size": 197
+      "sha1": "75f4ba4f4765e48355de40add80b29253b04ef2f",
+      "size": 207
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
       "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
       "size": 42
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "sha1": "e4a1bfe481152998bbe4e0b88afb48dbe5c3430b",
+      "size": 52
     },
     {
       "path": "config/fancymenu/options.txt",
@@ -157,339 +197,386 @@
       "size": 23
     },
     {
-      "path": "config/ferritecore.mixin.properties",
-      "sha1": "69e297dba67843f367101f4efc5d27bbcda27c1e",
-      "size": 1525
+      "path": "mods/CandadosYAuras-Forge-1.20.1-1.0.2.jar",
+      "sha1": "39709b830d6f0832bee6957efde56be9737c19f0",
+      "size": 3807201,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/b223e548f9a484b24020.dat"
     },
     {
-      "path": "config/firstperson.json",
-      "sha1": "53d62464761e0dc115e4aea24a9818c3fa6ecec2",
-      "size": 571
+      "path": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
+      "sha1": "4652dee093c796799756f5f6c89314c6d601ae65",
+      "size": 2805930,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5bc34a18de149445bf08.dat"
     },
     {
-      "path": "config/forgeconfigapiport.toml",
-      "sha1": "55e5f6d3e9f7fcbc87df5dab701aaec1ac7fc374",
-      "size": 1582
+      "path": "mods/DeathCoreExtras-forge-1.20.1-1.4.0-forge1.20.1.jar",
+      "sha1": "d8650a46fba4a0c8c8e1261983995b3f9dd6b254",
+      "size": 1303156,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f306f968c9ff9c5d061f.dat"
     },
     {
-      "path": "config/iris.properties",
-      "sha1": "c77adf37761191b8e94c35ed2190e15839200d12",
-      "size": 254
+      "path": "mods/DeathCoreIconos_Mod-1.20.1.jar",
+      "sha1": "afb94e487f41b2ab54124a3fda05f620979e9375",
+      "size": 39947,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/6cf38544c81464415e28.dat"
     },
     {
-      "path": "config/justzoom/config.txt",
-      "sha1": "f40073524bb4bd11c01f04d0b1cbfacf7e5e6b00",
-      "size": 474
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+      "size": 134551,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/4dc14974bb6a3bf8547d.dat"
     },
     {
-      "path": "config/kits.properties",
-      "sha1": "116ea2d5e6ff6aad09e06cc0dad71adca4980352",
-      "size": 168
+      "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+      "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+      "size": 20832,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c70d1a04647358cd31d7.dat"
     },
     {
-      "path": "config/kits/camera.nbt",
-      "sha1": "dea41a568fd1b358a9ffeaf4332b4eff2fa7e77d",
-      "size": 288
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
+      "size": 671605,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/1cd6fb8a4d95caadf0a7.dat"
     },
     {
-      "path": "config/kits/food.nbt",
-      "sha1": "9d8af7e268278d321dc40dec37e0c780abcb1ead",
-      "size": 141
+      "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "size": 52205,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/dd47b7823c38e55d391f.dat"
     },
     {
-      "path": "config/konkrete/locals/de_de.local",
-      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
-      "size": 369
+      "path": "mods/adminrecipes-1.0.0.jar",
+      "sha1": "11ea21690a0970dbbce66ccb2ba32625662082a6",
+      "size": 34261,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/184770d5a87eb84184a2.dat"
     },
     {
-      "path": "config/konkrete/locals/en_us.local",
-      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
-      "size": 426
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/14b1897aee0d1d664ffc.dat"
     },
     {
-      "path": "config/konkrete/locals/pl_pl.local",
-      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
-      "size": 313
+      "path": "mods/bardkit-1.0.0.jar",
+      "sha1": "27c7a4f65f74ff948ae9735ed7add4e7530f3986",
+      "size": 8547,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/d00b068cd618a11dc70a.dat"
     },
     {
-      "path": "config/konkrete/locals/pt_br.local",
-      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
-      "size": 322
+      "path": "mods/bigdoor-1.0.0.jar",
+      "sha1": "5135a6ebedd9d9b23e523bd2cda3f83559215008",
+      "size": 48113,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/cb8c7f5467e5d8c97e25.dat"
     },
     {
-      "path": "config/midnightlib.json",
-      "sha1": "9a5bd042eb352a8d2fb2f946bba8d31d463abd37",
-      "size": 34
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/612cf2502cbd67bf313e.dat"
     },
     {
-      "path": "config/notenoughanimations.json",
-      "sha1": "9fa97f74995e55ca93c832a81b3d67488ab9ca13",
-      "size": 2386
+      "path": "mods/crafteos_reemplazo-1.2.0.jar",
+      "sha1": "724ed6fc8a4a349a6c7d090c7260341253891395",
+      "size": 50968,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/2531805650656931bef9.dat"
     },
     {
-      "path": "config/notenoughcrashes.json",
-      "sha1": "2b792fb7eb312e343c5f5fae080e967de0aae1f7",
-      "size": 156
+      "path": "mods/creperjob-1.0.0.jar",
+      "sha1": "6d45d8f60a3ed8e7e5b216f1be74cb3d66cafb5a",
+      "size": 331162,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c194b9114ec88b04dc0e.dat"
     },
     {
-      "path": "config/skinlayers.json",
-      "sha1": "734feeda8583394bbc92acb6c17281857668a284",
-      "size": 430
+      "path": "mods/customarcos-1.0.0.jar",
+      "sha1": "3ac971f79573ffb883f4860d111aa4e5a1c38396",
+      "size": 31822,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/1be4f3b4f04183a20193.dat"
     },
     {
-      "path": "config/spb-revamped.json",
-      "sha1": "9dc574762e5816665df83ed5554366a4683b3867",
-      "size": 625
+      "path": "mods/deathcoins-1.0.0.jar",
+      "sha1": "a3eabf358957c8a201c6fb4756cacd2caaccb246",
+      "size": 203210,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/53a150386ffedcea0015.dat"
     },
     {
-      "path": "config/voicechat/translations.properties",
-      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
-      "size": 1182
+      "path": "mods/deathcore-menu-1.0.0.jar",
+      "sha1": "cb6c034319260234f6d614aa6e9cec8c0a7cb718",
+      "size": 84291,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/854df277332f5a424fbd.dat"
     },
     {
-      "path": "config/voicechat/username-cache.json",
-      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
-      "size": 2
+      "path": "mods/deathcore_extras-1.20.1-1.0.0.jar",
+      "sha1": "868d3aaa4f42c464514e1961aae025e1460a4b67",
+      "size": 30880,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/7a8affdacb6449535b58.dat"
     },
     {
-      "path": "config/voicechat/voicechat-client.properties",
-      "sha1": "f5da9edf758e23ecb55454873d2e6431e8d0700b",
-      "size": 4401
+      "path": "mods/deathcore_mod-1.0.0.jar",
+      "sha1": "397edd28299d063604ca0a57a34f5ba3e30d10e0",
+      "size": 205704,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/7091697dcbd7fbdc8cd5.dat"
     },
     {
-      "path": "config/voicechat/voicechat-server.properties",
-      "sha1": "0fa7f5c61a3ce26fcfd6a96d6a115befce1c876d",
-      "size": 2502
+      "path": "mods/deathcorededsafio-1.0.6-forge-1.20.1.jar",
+      "sha1": "09a2f52e669e6ef42a42ecd394bef9e5a2823fc1",
+      "size": 5575946,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/ac4b1133121db6c8d005.dat"
     },
     {
-      "path": "config/voicechat/voicechat-volumes.properties",
-      "sha1": "4eaca99c316dc0e047aa47897d73689054c1474d",
-      "size": 37
+      "path": "mods/deathcoremod-1.0.0-forge-1.20.1.jar",
+      "sha1": "722e12cf112ba3085aa4747aed67fef073be4319",
+      "size": 315130,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/454f7d76b49b31b074ea.dat"
     },
     {
-      "path": "config/welcomemessage.json5",
-      "sha1": "2bd188192dfb59e6f3e0648aeba3cbe5386cd384",
-      "size": 2098
+      "path": "mods/desafio-1.0.0.jar",
+      "sha1": "f3eff244b5dbfc1ba6e18ca98c7ed3602c34d113",
+      "size": 2703392,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/0d61fe15882f5e6cab6a.dat"
     },
     {
-      "path": "mods/Boxlib-fabric-11.3.2.jar",
-      "sha1": "5a69dd2cf5bf024702779be40bbbfba03c1daf43",
-      "size": 268834,
-      "remote": "assets/73037be94d53e4a311e5.dat"
+      "path": "mods/desastres-1.0.0.jar",
+      "sha1": "acc52ce67bd7423bd3f20590dcb387e516ffed27",
+      "size": 32765,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/3993f9b82ae0ec793ad2.dat"
     },
     {
-      "path": "mods/Camerapture-1.10.12+mc1.20.1-fabric.jar",
-      "sha1": "71f57b4da9aae2d62dd82412d98a397c70a4a895",
-      "size": 1974800,
-      "remote": "assets/b51dcf14d18971e42d97.dat"
+      "path": "mods/difficultymod-1.0.0.jar",
+      "sha1": "5698cb30fec706d0aa31f25e71a283729d9a2250",
+      "size": 34670,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5850ae415c7eea5f96bd.dat"
     },
     {
-      "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-      "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
-      "size": 396628,
-      "remote": "assets/ed638a274abfb864c673.dat"
+      "path": "mods/dungeondims-1.0.0.jar",
+      "sha1": "4ff1ea4d3b2aafccd356aa435cc3e7de2e2492f9",
+      "size": 67016653,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c91c73ce5e4b74026cd5.dat"
     },
     {
-      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
-      "sha1": "13282e818c9b5d20ba9f50949e3776d678d6926d",
-      "size": 1084397,
-      "remote": "assets/64fad4153f3ed66683c6.dat"
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/ead5cfacd4d332c48b7c.dat"
     },
     {
-      "path": "mods/auto_mod-1.0-fabric-1.20.1.jar",
-      "sha1": "5009ed9ed10868fc20afe6d761105f53879f1c06",
-      "size": 7022,
-      "remote": "assets/4fccc5533e282cc5ca7b.dat"
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha1": "fcff067375cfe917cbf235218f49ceb58e598a5c",
+      "size": 680255,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/b9ce31dd8726e6d19f2d.dat"
     },
     {
-      "path": "mods/borderless-mining-1.1.8+1.20.1.jar",
-      "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
-      "size": 118295,
-      "remote": "assets/a73906018e6d4f62f56e.dat"
+      "path": "mods/examplemod-1.0.0.jar",
+      "sha1": "bd0f1e3f073c6ad7d534389fb02c9285f32696a6",
+      "size": 58041,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/da47975a6bcd1091b867.dat"
     },
     {
-      "path": "mods/collective-1.20.1-8.25.jar",
-      "sha1": "5ec26087b60946e24048bce96997b90b55e6369b",
-      "size": 697968,
-      "remote": "assets/b0163b852dae5fac1bb2.dat"
+      "path": "mods/explosiveenhancement-1.2.0.jar",
+      "sha1": "35cf80849ac4b19416cadc12cf10de34295e51f5",
+      "size": 97476,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/cbbc56542b6ff8d8a333.dat"
     },
     {
-      "path": "mods/configured-fabric-1.20.1-2.2.3.jar",
-      "sha1": "c85adcba2f4cd0252dc8698d00a24b1e283d2cb8",
-      "size": 591886,
-      "remote": "assets/e311125a6fd60bd73409.dat"
+      "path": "mods/fancymenu-bundle-1_20_1 (1).jar",
+      "sha1": "07042f2c6a5d7b0abfa8a6e04ff403dbb0c8bbb3",
+      "size": 26842228,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c10e057d63798822cc69.dat"
     },
     {
-      "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
-      "sha1": "94bddfb517fa4badec2803249fbfd68c21cb3eea",
-      "size": 277393,
-      "remote": "assets/0ded62194811ba46ba29.dat"
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/9b1e63f826f79a001a9c.dat"
     },
     {
-      "path": "mods/fabric-api-0.92.12+1.20.1.jar",
-      "sha1": "3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4",
-      "size": 2137232,
-      "remote": "assets/c7bda63ad091168e19fd.dat"
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "size": 1038209,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/e9d8d1daf5e76dc295c9.dat"
     },
     {
-      "path": "mods/fabric-api-0.92.9+1.20.1.jar",
-      "sha1": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
-      "size": 2111565,
-      "remote": "assets/0ce83eeb4060c5bb4894.dat"
+      "path": "mods/grietas-1.0.0.jar",
+      "sha1": "2e48f5b5ef824358ef8916cb279b691b6adcad28",
+      "size": 54115,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/fd15246622f4ebdc6386.dat"
     },
     {
-      "path": "mods/fake_death_messages-fabric-1.20.1-1.0.0.jar",
-      "sha1": "a2e3888bbba8381d3cb82f5901c7a96666c8ce77",
-      "size": 945898,
-      "remote": "assets/f66543b91f2d85983809.dat"
+      "path": "mods/hermandad-1.0.0.jar",
+      "sha1": "f5ee4fade0c2e2f2d37564c5f07736b2a62f88eb",
+      "size": 112559,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5e77f3811027dac7d9c7.dat"
     },
     {
-      "path": "mods/fake_join_leave-fabric-1.20.1-1.0.0.jar",
-      "sha1": "bc68e0db095608165682f9960925d786ca6a7b0a",
-      "size": 14580,
-      "remote": "assets/7ca056848a641344d070.dat"
+      "path": "mods/immersivehotbar-1.3.0-forge-1.20.1.jar",
+      "sha1": "0c1779af0f000b42263ce171a3c6b54eb2527200",
+      "size": 189734,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/d28f45190d5188e8bb70.dat"
     },
     {
-      "path": "mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
-      "sha1": "0387c2cd09eac157ce590bd5c02f3259a95e4981",
-      "size": 419854,
-      "remote": "assets/0ce24c778aea2f1170c8.dat"
+      "path": "mods/instruccioens_eufonia-1.0-SNAPSHOT.jar",
+      "sha1": "79e5e0fc24814c04d1435b10050580c343d780d9",
+      "size": 2127184,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/bf224950dcfc92917142.dat"
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.12_MC_1.20.1.jar",
-      "sha1": "5d006ce563daecc4b86f99a02138568c230e8ca9",
-      "size": 26214165,
-      "remote": "assets/ff817371894ce8e451f4.dat"
+      "path": "mods/kaleidoscopecookery-1.6.0-forge+mc1.20.1.jar",
+      "sha1": "e44b450aa485b1474eaf13981790e2d80c7c72b6",
+      "size": 3607215,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5fd9750faf1afed6a932.dat"
     },
     {
-      "path": "mods/ferritecore-6.0.1-fabric.jar",
-      "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
-      "size": 125197,
-      "remote": "assets/9dcaa3771b161dccf921.dat"
+      "path": "mods/lluviameteoros-1.0.0.jar",
+      "sha1": "a0fc03a5beaf0de840cf606ab67eb0c31c34da64",
+      "size": 58278,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/377c1c91e8c6b12e7b74.dat"
     },
     {
-      "path": "mods/firstperson-fabric-2.7.1-mc1.20.1.jar",
-      "sha1": "cc6dffa74a0027b4b16a9617cb3d6e41cdea92af",
-      "size": 1616237,
-      "remote": "assets/58b8951d0b1bbd099aa7.dat"
+      "path": "mods/mendingremover-1.20.1-1.1.jar",
+      "sha1": "c3d095f7f6a16e0891ff79e79d82a3bc037da40e",
+      "size": 1024933,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/0b2a076299be37abe040.dat"
     },
     {
-      "path": "mods/flashlight-creepermeyt-v1.1-mc1.20.1.jar",
-      "sha1": "27a255813b7cf4768c9dba5dceb2d4b8a44f878d",
-      "size": 594200,
-      "remote": "assets/661c34dcbdf9340d6ee8.dat"
+      "path": "mods/mobcontrol-1.0.0.jar",
+      "sha1": "526563a288067b0317e2812f588c8d09859f9d5d",
+      "size": 40465,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5caa9a38d14667c8d497.dat"
     },
     {
-      "path": "mods/geckolib-fabric-1.20.1-4.7.2.jar",
-      "sha1": "fb48824b8092ac9a790e87f774e551bf899d9c30",
-      "size": 1042853,
-      "remote": "assets/4519fc63bfcd0a15d17a.dat"
+      "path": "mods/more_owleaf-1.3.6.jar",
+      "sha1": "9f4fd393da91fa6e8862302d4dc618d1b307e39f",
+      "size": 525009,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/7ac4b79c1521bed6a3dc.dat"
     },
     {
-      "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
-      "sha1": "30b645b2e12598c94c387fed519f91f3ae034977",
-      "size": 1069328,
-      "remote": "assets/956e8f6cf8c4c498157e.dat"
+      "path": "mods/navesdeathcore-1.6.0.jar",
+      "sha1": "8ae813c2e2291bdda854d3a9122367ac4079237f",
+      "size": 2313109,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/279e1508e748d9f9002c.dat"
     },
     {
-      "path": "mods/hideexperimentalwarning-1.20.1-1.2.jar",
-      "sha1": "9ae7fa690a25fb809f12bc683412071f9d8a3405",
-      "size": 14256,
-      "remote": "assets/a217b8555c13b863b4c0.dat"
+      "path": "mods/owleaf_playback-1.0.3.jar",
+      "sha1": "94191b42ab1ae83c86e8b09e503a4b0b6c571944",
+      "size": 125687,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f0e436e03c440b9ba7d5.dat"
     },
     {
-      "path": "mods/horror_responses_fabric_-1.0.1-fabric-1.20.1.jar",
-      "sha1": "f5eb587009bdf042c88aae26ad0a9cd490d6318c",
-      "size": 1701417,
-      "remote": "assets/3063531370cd037ff5c9.dat"
+      "path": "mods/pixeleasel-1.0.0.jar",
+      "sha1": "b1b64f8ccc19fad615040bbdf8268e48e28f28b3",
+      "size": 34995,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/bff50f9e93f7ab91b1d8.dat"
     },
     {
-      "path": "mods/horrormessages-1.0.1-fabric-1.20.1.jar",
-      "sha1": "31fbf44251803cf23588351d635b56afaaea0918",
-      "size": 18377,
-      "remote": "assets/0fd8cabe2e0cd394d995.dat"
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/d7a9cdf644419d4eb4f3.dat"
     },
     {
-      "path": "mods/justzoom_fabric_2.1.0_MC_1.20.1.jar",
-      "sha1": "538a90dd2eced7704a900d53b9cbc5cf5cea6b64",
-      "size": 196623,
-      "remote": "assets/3d58ec7ba0f75a8bba14.dat"
+      "path": "mods/revilmoments-1.2.1.jar",
+      "sha1": "acac125a49615284e0bbb9f3154fa6083bfc00be",
+      "size": 82379,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/312c30375031f4174846.dat"
     },
     {
-      "path": "mods/kits-1.6.0-mc1.20.1.jar",
-      "sha1": "ce84515d6b5ffce42ef860b3ad8d795c307eb4d8",
-      "size": 211115,
-      "remote": "assets/76c061fb5f783f0add85.dat"
+      "path": "mods/ror-0.6-1.20.1-forge-forge-1.20.1.jar",
+      "sha1": "9c4e7f059374b79c53fb6816210755aad2942ad7",
+      "size": 6967751,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c42404c132340688df69.dat"
     },
     {
-      "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
-      "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
-      "size": 892067,
-      "remote": "assets/5297dd6fb18ebfd107d8.dat"
+      "path": "mods/rptools-1.0.0.jar",
+      "sha1": "9b7257b0226e9648c0fb522e7ea98cd2d014cfa0",
+      "size": 162691,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/43604fb64557a5ae8156.dat"
     },
     {
-      "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-      "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67",
-      "size": 39696,
-      "remote": "assets/366bf8eb5e19fc1a4a12.dat"
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8",
+      "size": 568608,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/84b90b7b9e34a281a3cf.dat"
     },
     {
-      "path": "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar",
-      "sha1": "fb5ee127fabacd4489cfee82a8973693fc066485",
-      "size": 1943280,
-      "remote": "assets/1ffa11b16cee9321adce.dat"
+      "path": "mods/ruletadiaria-forge-1.20.1-1.0.0.jar",
+      "sha1": "e12cebe72a587bbfe4c978c94403a3dbb0008443",
+      "size": 429375,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/0ba9961fa54883c4dd21.dat"
     },
     {
-      "path": "mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar",
-      "sha1": "d9cb6a26df4b1785fbcaae0ac906df0da17d0280",
-      "size": 138548,
-      "remote": "assets/8836ef55da4074f2d511.dat"
+      "path": "mods/seriousplayeranimations-1.1.1.jar",
+      "sha1": "71a8848197eab2b580d1f4749df362182105d0f1",
+      "size": 292607,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/8d5528d7806d0273e31f.dat"
     },
     {
-      "path": "mods/random_advancement-fabric-1.20.1-1.0.0.jar",
-      "sha1": "36a9109a5930b117438b3bcf36f483c535682004",
-      "size": 949096,
-      "remote": "assets/289be25ccba026b1973b.dat"
+      "path": "mods/skullboss-1.0.0.jar",
+      "sha1": "b613eb1f4d6641bad3391def2ed9eb3f679da7a8",
+      "size": 115952,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5e764bee88d6ed97e5ca.dat"
     },
     {
-      "path": "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar",
-      "sha1": "e9f9793aff2a2d2c370b8c7d6f7f53c0f6dc30c6",
-      "size": 1973785,
-      "remote": "assets/986473414798df3b3ece.dat"
+      "path": "mods/spawncores-1.0.0.jar",
+      "sha1": "7e0c441bef125639ef73b2b26fa57024c70b20b0",
+      "size": 40591,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/765027ea7f9f0757bada.dat"
     },
     {
-      "path": "mods/voicechat-fabric-1.20.1-2.6.18.jar",
-      "sha1": "10f5ab75c46fe88f33e1a8a9e38e704cf62f9419",
-      "size": 5263604,
-      "remote": "assets/0954b6fed63842850ddd.dat"
+      "path": "mods/tia-1.20-1.1-forge.jar",
+      "sha1": "bd1eac323a351355d21ddf720fb0503020c77928",
+      "size": 11766,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/d6d97d4bf71acc39e8ca.dat"
     },
     {
-      "path": "mods/welcomemessage-1.20.1-2.7.jar",
-      "sha1": "f23877136d34974bde67f1aa7e042c25df29a2d1",
-      "size": 23729,
-      "remote": "assets/a4e6931d4780d934fb4f.dat"
+      "path": "mods/tikis-1.0.0.jar",
+      "sha1": "7521da84aabea8bce511824e4d5c9183887a5238",
+      "size": 126286,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f865024b95cc1b88de83.dat"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
+      "size": 4923439,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/15a39944f883ee501380.dat"
+    },
+    {
+      "path": "mods/watermedia-3.0.1.jar",
+      "sha1": "2547e8cb1f3352267b1cb667aeec42754dbdf101",
+      "size": 3331207,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/031322f24d2c2b37d071.dat"
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.1.jar",
+      "sha1": "f9b55e50abeb36eea847a3cb448637d621cd9979",
+      "size": 152313121,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c954c3117122eb80a5e2.dat"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+      "size": 1105891,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/70f171c3b6a422cadcfd.dat"
     },
     {
       "path": "options.txt",
-      "sha1": "1f92bd6a7816937b8544701300106ebb6d68e083",
-      "size": 5140
+      "sha1": "db824b1d60f634aa41e004eb75a6af34626a1c10",
+      "size": 6446
     }
   ],
   "branding_files": [
     {
       "path": "banner.jpg",
-      "sha1": "24c878fc47b19ae99de9898e9bdd9db8a4fbf823",
-      "size": 423930
+      "sha1": "4d602e8763fef72327b2df7a9f0c5b00c314436c",
+      "size": 273858
     },
     {
       "path": "icon.png",
-      "sha1": "3553be094c0cead36ceba4dc987d5d51dc27fab4",
-      "size": 702475
+      "sha1": "4ed4b76ae112afd11b89232ebe7fec21cb057cdf",
+      "size": 6717
     },
     {
       "path": "news.json",
-      "sha1": "1f38fe5b09c131cd8c7526b118a47b197b9cad46",
-      "size": 223
+      "sha1": "e1f40a814cf34a018018f9326877074fe0075d49",
+      "size": 95
     }
   ]
 }

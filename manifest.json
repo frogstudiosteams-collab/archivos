@@ -3,7 +3,7 @@
   "base_url": "https://frogstudiosteams-collab.github.io/archivos/",
   "minecraft_version": "1.20.1",
   "loader": "forge",
-  "loader_version": "",
+  "loader_version": "47.4.28",
   "server_address": "REVISA-ESTO:25565",
   "files": [
     {

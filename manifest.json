@@ -4,7 +4,7 @@
   "minecraft_version": "1.20.1",
   "loader": "forge",
   "loader_version": "47.4.28",
-  "server_address": "REVISA-ESTO:25565",
+  "server_address": "",
   "files": [
     {
       "path": "config/drippyloadingscreen/options.txt",
@@ -195,6 +195,226 @@
       "path": "config/fancymenu/user_variables.db",
       "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
       "size": 23
+    },
+    {
+      "path": "fancymenu_data/action_favorites.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_audio_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_video_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_M2YzOGJmNGMtYTViMC00YzdhLWIzZmMtMGI2YTcwYjkyYWIxLTE3OTM4NTA4NTE5OTc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MDA5ZDcwOGMtM2M5My00MDVlLWI2NzgtODAzMDdmYjcwMzM2LTE3OTM4Mzg5MTIyMDc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MTMyMzFlMWItODAwMS00NDk4LTg1MjctMmUxZTZjZDIzNWRmLTE3OTM4NTAzNjY3NTI.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MTRlNGRmYTAtYmU0My00YzYyLWI4ODYtZDRlNGFjNDUyNmRiLTE3OTM4NTA4OTc5Njc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MjE4MzlkZDYtZmUyOS00MWQ5LTllMDQtYzNkZWIwNjM4ZWZmLTE3OTM4NTAwNjc5ODI.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MjJhNDUzYmMtODQ1Mi00YTI2LWIxZDItMDYzNDkyMmNjYjE3LTE3OTM4Mzg4MzM0MzQ.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MjM1MThkYmEtZDA1MC00MzU0LTg1MDEtZDNmYjhjNmQ5NTFmLTE3OTM4NTEzMzQ4OTM.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MzJmMzk0NWYtNGFiZi00Nzc1LTk2ZWYtNTFjZWZmNjVjNjcwLTE3OTM4MzM4Nzc2MDA.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_N2E1Mzg2MjctMTE2MC00MmUxLWE2YjctMzc5YWM0NjExYjI4LTE3OTM4NDc4MzU5OTA.json",
+      "sha1": "416f8220ae66dc8b2a661a82eb01f4c3d8874eab",
+      "size": 1620
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_NGE3YmE3MzEtZGEyMS00OGE1LTkzMDUtODdlMGJkNjg2YmQ4LTE3OTM4Mzg4MTg3NDE.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_NTExODBmNjgtODBjMS00OTY0LWIxNGUtZTFlZGViMjJkMmIwLTE3OTM4Mzg5OTIzNDc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_NmQ3YzNlYWItOWMwMy00YTZkLTk1NDUtMTZjNGMwMzE3ZTAxLTE3OTM4Mzg5MDEzNDc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_ODFjYTRlMTEtYWIyMS00ZmVlLTkzMTgtNTU4NGEzOWVlNjMxLTE3OTM4MzM5MTE0NTY.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_OGJiMTA4NGItM2U1Mi00OGQ5LTliZTUtMDMwZmY0NzAyMzU1LTE3OTM4NTAzNTE2OTg.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_YTk1Zjk0ZGYtN2M0Zi00ZTAzLThmNGEtMjI5NTE5NWZlZjNjLTE3OTM4ODUwMzg2MDU.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_YjU1NTg2NjgtYjNiNC00ODY1LWI5MDktYWI0Y2VjMTMwNWYyLTE3OTM4NDc4MTY0Njg.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_ZDE0NzRiYTctZDEyNi00OTdhLWE5NGQtODc1YjM3MTQ3ZWJkLTE3OTM4NTA4NjUyNzM.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_ZTJjNmExOGMtODUxMi00YWMwLTk5NmMtOWU2ZGYwYjViYmM0LTE3OTM4NDcwNzA0NTc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_ZTQ4YTBjZDItODg3MS00NGJiLThlZjctN2RlN2UwNmY1YmRmLTE3OTM4MzM5MjExMDY.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_ZWFlOTQ4ZTItNjMzYS00YWIxLWI4ZDMtNmMwNjdlYmFiOTU2LTE3OTM4MzkyOTMyOTA.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_M2YzOGJmNGMtYTViMC00YzdhLWIzZmMtMGI2YTcwYjkyYWIxLTE3OTM4NTA4NTE5OTc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MDA5ZDcwOGMtM2M5My00MDVlLWI2NzgtODAzMDdmYjcwMzM2LTE3OTM4Mzg5MTIyMDc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MTMyMzFlMWItODAwMS00NDk4LTg1MjctMmUxZTZjZDIzNWRmLTE3OTM4NTAzNjY3NTI.json",
+      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MTRlNGRmYTAtYmU0My00YzYyLWI4ODYtZDRlNGFjNDUyNmRiLTE3OTM4NTA4OTc5Njc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MjE4MzlkZDYtZmUyOS00MWQ5LTllMDQtYzNkZWIwNjM4ZWZmLTE3OTM4NTAwNjc5ODI.json",
+      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MjJhNDUzYmMtODQ1Mi00YTI2LWIxZDItMDYzNDkyMmNjYjE3LTE3OTM4Mzg4MzM0MzQ.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MjM1MThkYmEtZDA1MC00MzU0LTg1MDEtZDNmYjhjNmQ5NTFmLTE3OTM4NTEzMzQ4OTM.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MzJmMzk0NWYtNGFiZi00Nzc1LTk2ZWYtNTFjZWZmNjVjNjcwLTE3OTM4MzM4Nzc2MDA.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_N2E1Mzg2MjctMTE2MC00MmUxLWE2YjctMzc5YWM0NjExYjI4LTE3OTM4NDc4MzU5OTA.json",
+      "sha1": "c00aae9218bc6c259ac0a84e126db5386581ab87",
+      "size": 392
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_NGE3YmE3MzEtZGEyMS00OGE1LTkzMDUtODdlMGJkNjg2YmQ4LTE3OTM4Mzg4MTg3NDE.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_NTExODBmNjgtODBjMS00OTY0LWIxNGUtZTFlZGViMjJkMmIwLTE3OTM4Mzg5OTIzNDc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_NmQ3YzNlYWItOWMwMy00YTZkLTk1NDUtMTZjNGMwMzE3ZTAxLTE3OTM4Mzg5MDEzNDc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_ODFjYTRlMTEtYWIyMS00ZmVlLTkzMTgtNTU4NGEzOWVlNjMxLTE3OTM4MzM5MTE0NTY.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_OGJiMTA4NGItM2U1Mi00OGQ5LTliZTUtMDMwZmY0NzAyMzU1LTE3OTM4NTAzNTE2OTg.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_YTk1Zjk0ZGYtN2M0Zi00ZTAzLThmNGEtMjI5NTE5NWZlZjNjLTE3OTM4ODUwMzg2MDU.json",
+      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_YjU1NTg2NjgtYjNiNC00ODY1LWI5MDktYWI0Y2VjMTMwNWYyLTE3OTM4NDc4MTY0Njg.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_ZDE0NzRiYTctZDEyNi00OTdhLWE5NGQtODc1YjM3MTQ3ZWJkLTE3OTM4NTA4NjUyNzM.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_ZTJjNmExOGMtODUxMi00YWMwLTk5NmMtOWU2ZGYwYjViYmM0LTE3OTM4NDcwNzA0NTc.json",
+      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_ZTQ4YTBjZDItODg3MS00NGJiLThlZjctN2RlN2UwNmY1YmRmLTE3OTM4MzM5MjExMDY.json",
+      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_ZWFlOTQ4ZTItNjMzYS00YWIxLWI4ZDMtNmMwNjdlYmFiOTU2LTE3OTM4MzkyOTMyOTA.json",
+      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "sha1": "f5c3d6bfbdbe3fb9692d480f58fa9c1ea2472997",
+      "size": 97
     },
     {
       "path": "mods/CandadosYAuras-Forge-1.20.1-1.0.2.jar",
@@ -509,6 +729,12 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/8d5528d7806d0273e31f.dat"
     },
     {
+      "path": "mods/sillasmusicales-1.0.0.jar",
+      "sha1": "0591ebeaba4536276052db96896235fcb4bddadf",
+      "size": 23577,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/e6bd6f98b841166755af.dat"
+    },
+    {
       "path": "mods/skullboss-1.0.0.jar",
       "sha1": "b613eb1f4d6641bad3391def2ed9eb3f679da7a8",
       "size": 115952,
@@ -578,5 +804,12 @@
       "sha1": "e1f40a814cf34a018018f9326877074fe0075d49",
       "size": 95
     }
-  ]
+  ],
+  "delete_extra_files": true,
+  "delete_extra_in": [
+    "mods",
+    "config/fancymenu",
+    "fancymenu_data"
+  ],
+  "close_launcher_on_play": true
 }

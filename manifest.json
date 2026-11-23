@@ -7,49 +7,9 @@
   "server_address": "",
   "files": [
     {
-      "path": "config/drippyloadingscreen/options.txt",
-      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
-      "size": 2465
-    },
-    {
-      "path": "config/fancymenu/assets/background_deathcore.png",
+      "path": "config/fancymenu/assets/2026-11-03_23.06.43.png",
       "sha1": "40d17b35bef6b90c2494675fb208447405bf74c5",
       "size": 5327648
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_background_plantilla.png",
-      "sha1": "c048f2814c114c390563df88d11e68d653a05d40",
-      "size": 1399999
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_marca_de_agua_warden.png",
-      "sha1": "29ead032474ab4797a10de05bf8c95abeea74284",
-      "size": 354524
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_render.png",
-      "sha1": "f1b93f04b2061a61028bd9f6c12f3af007732432",
-      "size": 80429
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_render_2.png",
-      "sha1": "0f014a7897d65cd61b8a384efaa75aa62c5c0dcc",
-      "size": 327570
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_ruleta_hd.png",
-      "sha1": "4ed4b76ae112afd11b89232ebe7fec21cb057cdf",
-      "size": 6717
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_titulo.png",
-      "sha1": "75d480174b5224125f4488b98ba8861eebc857e7",
-      "size": 1720708
-    },
-    {
-      "path": "config/fancymenu/assets/deathcore_titulo_actualizado.png",
-      "sha1": "7557c874ad55b5cf4ca59999e82ca882b78f0fda",
-      "size": 380110
     },
     {
       "path": "config/fancymenu/assets/deathcorelogofinal.png",
@@ -62,14 +22,19 @@
       "size": 590894
     },
     {
-      "path": "config/fancymenu/assets/image.png",
-      "sha1": "7df4925a156257d45c40f42da45c7850374d39f2",
-      "size": 2371189
+      "path": "config/fancymenu/assets/sinfondo.png",
+      "sha1": "38a99e1d375855ad226c09bcbcc71caaef00f76a",
+      "size": 202653
     },
     {
-      "path": "config/fancymenu/assets/ruleta_deathcore_bonita.png",
-      "sha1": "2b7216a2a671900c75eb9b7527765b24a201d2a7",
-      "size": 1408
+      "path": "config/fancymenu/assets/transparente.png",
+      "sha1": "4516cfc4cb5b241c519a2af3aa46ea2de8d308f0",
+      "size": 125
+    },
+    {
+      "path": "config/fancymenu/assets/warden_network_x_profile_1080-removebg-preview.png",
+      "sha1": "572a9c09d3f4d3ae32c8ff82e33b6d75c349af65",
+      "size": 51207
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
@@ -78,58 +43,33 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "sha1": "881f3163c9f3345d1f81e944aa15cde79d1b57ea",
-      "size": 560
+      "sha1": "b0ed30e29138c655701544e97dd230da311c5faa",
+      "size": 188
     },
     {
-      "path": "config/fancymenu/customization/deathcore_controls_screen_layout.txt",
-      "sha1": "26f98f1260e75db47c3dc09bc0f4673730721900",
-      "size": 29542
+      "path": "config/fancymenu/customization/controls_screen_layout.txt",
+      "sha1": "5773f2947dd152be7b36f298b78e2d67fe1bf414",
+      "size": 17559
     },
     {
-      "path": "config/fancymenu/customization/deathcore_drippy_loading_overlay_layout.txt",
-      "sha1": "1c5c629bb1539be02b5458b694455a8fe7fd32aa",
-      "size": 17876
+      "path": "config/fancymenu/customization/options_screen_layout.txt",
+      "sha1": "e04bf763f3044823d0cc32c8a9a240d35af5d307",
+      "size": 30971
     },
     {
-      "path": "config/fancymenu/customization/deathcore_language_select_screen_layout.txt",
-      "sha1": "2e524e8bda80106addf733627702a7ee5b7d41fc",
-      "size": 21938
+      "path": "config/fancymenu/customization/pause_screen_layout.txt",
+      "sha1": "d499b0eee2df6e00614a0c421e2db02e61c29c62",
+      "size": 27693
     },
     {
-      "path": "config/fancymenu/customization/deathcore_layout.txt",
-      "sha1": "9e163a721ca4a66489e0a01171294c05f85e1bae",
-      "size": 56219
-    },
-    {
-      "path": "config/fancymenu/customization/deathcore_layout_escape.txt",
-      "sha1": "584ccd737ae28b6b22c7c745d162b0eb81e39f76",
-      "size": 40120
-    },
-    {
-      "path": "config/fancymenu/customization/deathcore_mouse_settings_screen_layout.txt",
-      "sha1": "8901a8f7927e9c1a18258e860d504722e8a055e0",
-      "size": 19169
-    },
-    {
-      "path": "config/fancymenu/customization/deathcore_multiplayer_screen.txt",
-      "sha1": "e2f2e21811499f53602e60916da21eee489afa7a",
-      "size": 33589
-    },
-    {
-      "path": "config/fancymenu/customization/deathcore_options_screen_layout.txt",
-      "sha1": "abe58737356acc7d3d8c402e72e5509ac2338ce7",
-      "size": 46621
-    },
-    {
-      "path": "config/fancymenu/customization/deathcore_video_settings_screen_layout.txt",
-      "sha1": "54f399d2689a0f3fd5930e4454c3a145f04290fc",
-      "size": 19223
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "5a1972801ea292b4a30f81642751bb144964126e",
+      "size": 38686
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "sha1": "75f4ba4f4765e48355de40add80b29253b04ef2f",
-      "size": 207
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
@@ -137,59 +77,19 @@
       "size": 42
     },
     {
-      "path": "config/fancymenu/normalized_scroll_screens.json",
-      "sha1": "e4a1bfe481152998bbe4e0b88afb48dbe5c3430b",
-      "size": 52
-    },
-    {
       "path": "config/fancymenu/options.txt",
-      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec",
-      "size": 4400
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
-      "size": 9349
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
-      "size": 9347
+      "sha1": "986b5fc23b163059cb7aa050446abb2d8b8b821b",
+      "size": 2128
     },
     {
       "path": "config/fancymenu/ui_themes/dark.json",
-      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
-      "size": 9329
-    },
-    {
-      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
-      "size": 9359
+      "sha1": "22cefe5b52927d21f68b7e1537f52fba7ec6cca1",
+      "size": 6218
     },
     {
       "path": "config/fancymenu/ui_themes/light.json",
-      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
-      "size": 9331
-    },
-    {
-      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
-      "size": 9361
-    },
-    {
-      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
-      "size": 9345
-    },
-    {
-      "path": "config/fancymenu/ui_themes/purple_void.json",
-      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
-      "size": 9343
-    },
-    {
-      "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
-      "size": 9347
+      "sha1": "800a6df3553074fe5474a9dc43d0ce0fdeb8f131",
+      "size": 6220
     },
     {
       "path": "config/fancymenu/user_variables.db",
@@ -202,214 +102,14 @@
       "size": 0
     },
     {
-      "path": "fancymenu_data/browser_audio_settings.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0
-    },
-    {
-      "path": "fancymenu_data/browser_video_settings.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_M2YzOGJmNGMtYTViMC00YzdhLWIzZmMtMGI2YTcwYjkyYWIxLTE3OTM4NTA4NTE5OTc.json",
+      "path": "fancymenu_data/buddy/buddy_leveling.json",
       "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
       "size": 1619
     },
     {
-      "path": "fancymenu_data/buddy/buddy_leveling_MDA5ZDcwOGMtM2M5My00MDVlLWI2NzgtODAzMDdmYjcwMzM2LTE3OTM4Mzg5MTIyMDc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MTMyMzFlMWItODAwMS00NDk4LTg1MjctMmUxZTZjZDIzNWRmLTE3OTM4NTAzNjY3NTI.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MTRlNGRmYTAtYmU0My00YzYyLWI4ODYtZDRlNGFjNDUyNmRiLTE3OTM4NTA4OTc5Njc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MjE4MzlkZDYtZmUyOS00MWQ5LTllMDQtYzNkZWIwNjM4ZWZmLTE3OTM4NTAwNjc5ODI.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MjJhNDUzYmMtODQ1Mi00YTI2LWIxZDItMDYzNDkyMmNjYjE3LTE3OTM4Mzg4MzM0MzQ.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MjM1MThkYmEtZDA1MC00MzU0LTg1MDEtZDNmYjhjNmQ5NTFmLTE3OTM4NTEzMzQ4OTM.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MzJmMzk0NWYtNGFiZi00Nzc1LTk2ZWYtNTFjZWZmNjVjNjcwLTE3OTM4MzM4Nzc2MDA.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_N2E1Mzg2MjctMTE2MC00MmUxLWE2YjctMzc5YWM0NjExYjI4LTE3OTM4NDc4MzU5OTA.json",
-      "sha1": "416f8220ae66dc8b2a661a82eb01f4c3d8874eab",
-      "size": 1620
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_NGE3YmE3MzEtZGEyMS00OGE1LTkzMDUtODdlMGJkNjg2YmQ4LTE3OTM4Mzg4MTg3NDE.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_NTExODBmNjgtODBjMS00OTY0LWIxNGUtZTFlZGViMjJkMmIwLTE3OTM4Mzg5OTIzNDc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_NmQ3YzNlYWItOWMwMy00YTZkLTk1NDUtMTZjNGMwMzE3ZTAxLTE3OTM4Mzg5MDEzNDc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_ODFjYTRlMTEtYWIyMS00ZmVlLTkzMTgtNTU4NGEzOWVlNjMxLTE3OTM4MzM5MTE0NTY.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_OGJiMTA4NGItM2U1Mi00OGQ5LTliZTUtMDMwZmY0NzAyMzU1LTE3OTM4NTAzNTE2OTg.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_YTk1Zjk0ZGYtN2M0Zi00ZTAzLThmNGEtMjI5NTE5NWZlZjNjLTE3OTM4ODUwMzg2MDU.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_YjU1NTg2NjgtYjNiNC00ODY1LWI5MDktYWI0Y2VjMTMwNWYyLTE3OTM4NDc4MTY0Njg.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_ZDE0NzRiYTctZDEyNi00OTdhLWE5NGQtODc1YjM3MTQ3ZWJkLTE3OTM4NTA4NjUyNzM.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_ZTJjNmExOGMtODUxMi00YWMwLTk5NmMtOWU2ZGYwYjViYmM0LTE3OTM4NDcwNzA0NTc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_ZTQ4YTBjZDItODg3MS00NGJiLThlZjctN2RlN2UwNmY1YmRmLTE3OTM4MzM5MjExMDY.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_ZWFlOTQ4ZTItNjMzYS00YWIxLWI4ZDMtNmMwNjdlYmFiOTU2LTE3OTM4MzkyOTMyOTA.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_M2YzOGJmNGMtYTViMC00YzdhLWIzZmMtMGI2YTcwYjkyYWIxLTE3OTM4NTA4NTE5OTc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MDA5ZDcwOGMtM2M5My00MDVlLWI2NzgtODAzMDdmYjcwMzM2LTE3OTM4Mzg5MTIyMDc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MTMyMzFlMWItODAwMS00NDk4LTg1MjctMmUxZTZjZDIzNWRmLTE3OTM4NTAzNjY3NTI.json",
-      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MTRlNGRmYTAtYmU0My00YzYyLWI4ODYtZDRlNGFjNDUyNmRiLTE3OTM4NTA4OTc5Njc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MjE4MzlkZDYtZmUyOS00MWQ5LTllMDQtYzNkZWIwNjM4ZWZmLTE3OTM4NTAwNjc5ODI.json",
-      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MjJhNDUzYmMtODQ1Mi00YTI2LWIxZDItMDYzNDkyMmNjYjE3LTE3OTM4Mzg4MzM0MzQ.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MjM1MThkYmEtZDA1MC00MzU0LTg1MDEtZDNmYjhjNmQ5NTFmLTE3OTM4NTEzMzQ4OTM.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MzJmMzk0NWYtNGFiZi00Nzc1LTk2ZWYtNTFjZWZmNjVjNjcwLTE3OTM4MzM4Nzc2MDA.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_N2E1Mzg2MjctMTE2MC00MmUxLWE2YjctMzc5YWM0NjExYjI4LTE3OTM4NDc4MzU5OTA.json",
-      "sha1": "c00aae9218bc6c259ac0a84e126db5386581ab87",
-      "size": 392
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_NGE3YmE3MzEtZGEyMS00OGE1LTkzMDUtODdlMGJkNjg2YmQ4LTE3OTM4Mzg4MTg3NDE.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_NTExODBmNjgtODBjMS00OTY0LWIxNGUtZTFlZGViMjJkMmIwLTE3OTM4Mzg5OTIzNDc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_NmQ3YzNlYWItOWMwMy00YTZkLTk1NDUtMTZjNGMwMzE3ZTAxLTE3OTM4Mzg5MDEzNDc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_ODFjYTRlMTEtYWIyMS00ZmVlLTkzMTgtNTU4NGEzOWVlNjMxLTE3OTM4MzM5MTE0NTY.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_OGJiMTA4NGItM2U1Mi00OGQ5LTliZTUtMDMwZmY0NzAyMzU1LTE3OTM4NTAzNTE2OTg.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_YTk1Zjk0ZGYtN2M0Zi00ZTAzLThmNGEtMjI5NTE5NWZlZjNjLTE3OTM4ODUwMzg2MDU.json",
-      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_YjU1NTg2NjgtYjNiNC00ODY1LWI5MDktYWI0Y2VjMTMwNWYyLTE3OTM4NDc4MTY0Njg.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_ZDE0NzRiYTctZDEyNi00OTdhLWE5NGQtODc1YjM3MTQ3ZWJkLTE3OTM4NTA4NjUyNzM.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_ZTJjNmExOGMtODUxMi00YWMwLTk5NmMtOWU2ZGYwYjViYmM0LTE3OTM4NDcwNzA0NTc.json",
-      "sha1": "014aab60490e4bab3a82238a9673021599da40e6",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_ZTQ4YTBjZDItODg3MS00NGJiLThlZjctN2RlN2UwNmY1YmRmLTE3OTM4MzM5MjExMDY.json",
-      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
-      "size": 380
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_ZWFlOTQ4ZTItNjMzYS00YWIxLWI4ZDMtNmMwNjdlYmFiOTU2LTE3OTM4MzkyOTMyOTA.json",
-      "sha1": "1e2035e8e4174b5e9e8d68605a104b2baeec4263",
-      "size": 380
+      "path": "fancymenu_data/buddy/buddy_save.json",
+      "sha1": "5175d0ada51f3bfe9b9f119fb88d0cd79e3f74e5",
+      "size": 260
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
@@ -465,6 +165,12 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/dd47b7823c38e55d391f.dat"
     },
     {
+      "path": "mods/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
+      "sha1": "9b398b4d3fd87373c9c047e2a812dac56bd9bdbd",
+      "size": 213457,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f247960e97efdf986362.dat"
+    },
+    {
       "path": "mods/adminrecipes-1.0.0.jar",
       "sha1": "11ea21690a0970dbbce66ccb2ba32625662082a6",
       "size": 34261,
@@ -514,8 +220,8 @@
     },
     {
       "path": "mods/deathcoins-1.0.0.jar",
-      "sha1": "a3eabf358957c8a201c6fb4756cacd2caaccb246",
-      "size": 203210,
+      "sha1": "c696dc2d3003f3125ac3f20de62f864461f0c476",
+      "size": 229115,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/53a150386ffedcea0015.dat"
     },
     {
@@ -585,6 +291,12 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/b9ce31dd8726e6d19f2d.dat"
     },
     {
+      "path": "mods/entityculling-forge-1.12.2-mc1.20.1.jar",
+      "sha1": "f8f6564ad5a3861fbf6751438e8fd830c3da88d9",
+      "size": 1529393,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/94468edc6ffdf7bf3efc.dat"
+    },
+    {
       "path": "mods/examplemod-1.0.0.jar",
       "sha1": "bd0f1e3f073c6ad7d534389fb02c9285f32696a6",
       "size": 58041,
@@ -597,10 +309,10 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/cbbc56542b6ff8d8a333.dat"
     },
     {
-      "path": "mods/fancymenu-bundle-1_20_1 (1).jar",
-      "sha1": "07042f2c6a5d7b0abfa8a6e04ff403dbb0c8bbb3",
-      "size": 26842228,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c10e057d63798822cc69.dat"
+      "path": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
+      "size": 4472193,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/1e6e19b3c2b83d7407ca.dat"
     },
     {
       "path": "mods/ferritecore-6.0.1-forge.jar",
@@ -639,16 +351,34 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/bf224950dcfc92917142.dat"
     },
     {
+      "path": "mods/justzoom_forge_3.1.0_MC_1.20.1.jar",
+      "sha1": "9b421058072bc809457832227d85b7ef268892a2",
+      "size": 355850,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/fd80b37d8566397b30a2.dat"
+    },
+    {
       "path": "mods/kaleidoscopecookery-1.6.0-forge+mc1.20.1.jar",
       "sha1": "e44b450aa485b1474eaf13981790e2d80c7c72b6",
       "size": 3607215,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5fd9750faf1afed6a932.dat"
     },
     {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/18df9f0090fa8d5269c1.dat"
+    },
+    {
       "path": "mods/lluviameteoros-1.0.0.jar",
       "sha1": "a0fc03a5beaf0de840cf606ab67eb0c31c34da64",
       "size": 58278,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/377c1c91e8c6b12e7b74.dat"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "size": 37178,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/552db83fdd7bd134667b.dat"
     },
     {
       "path": "mods/mendingremover-1.20.1-1.1.jar",
@@ -675,10 +405,16 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/279e1508e748d9f9002c.dat"
     },
     {
-      "path": "mods/owleaf_playback-1.0.3.jar",
-      "sha1": "94191b42ab1ae83c86e8b09e503a4b0b6c571944",
-      "size": 125687,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f0e436e03c440b9ba7d5.dat"
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/75dbeba300c403102b5b.dat"
+    },
+    {
+      "path": "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+      "size": 188661,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/b2b78692af6fd9f453b0.dat"
     },
     {
       "path": "mods/pixeleasel-1.0.0.jar",
@@ -729,12 +465,6 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/8d5528d7806d0273e31f.dat"
     },
     {
-      "path": "mods/sillasmusicales-1.0.0.jar",
-      "sha1": "0591ebeaba4536276052db96896235fcb4bddadf",
-      "size": 23577,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/e6bd6f98b841166755af.dat"
-    },
-    {
       "path": "mods/skullboss-1.0.0.jar",
       "sha1": "b613eb1f4d6641bad3391def2ed9eb3f679da7a8",
       "size": 115952,
@@ -765,16 +495,10 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/15a39944f883ee501380.dat"
     },
     {
-      "path": "mods/watermedia-3.0.1.jar",
-      "sha1": "2547e8cb1f3352267b1cb667aeec42754dbdf101",
-      "size": 3331207,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/031322f24d2c2b37d071.dat"
-    },
-    {
-      "path": "mods/watermedia_binaries-3.0.1.jar",
-      "sha1": "f9b55e50abeb36eea847a3cb448637d621cd9979",
-      "size": 152313121,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/c954c3117122eb80a5e2.dat"
+      "path": "mods/watermedia-2.0.73.jar",
+      "sha1": "75cc271c65493655488e5e3a17873baaa55e07f6",
+      "size": 27597763,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/9fd3791f8df4f05bb54e.dat"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
@@ -784,8 +508,8 @@
     },
     {
       "path": "options.txt",
-      "sha1": "db824b1d60f634aa41e004eb75a6af34626a1c10",
-      "size": 6446
+      "sha1": "4ada3fdb2fcafd8a93d3c6148027cc1bb0230772",
+      "size": 6977
     }
   ],
   "branding_files": [

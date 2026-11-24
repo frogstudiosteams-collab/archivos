@@ -255,6 +255,12 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/454f7d76b49b31b074ea.dat"
     },
     {
+      "path": "mods/deathcoresounds-1.0.0.jar",
+      "sha1": "0b96aa0a1769217fdebdced389de26c1a08852ee",
+      "size": 87637556,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/35e77901e220bf0e98cd.dat"
+    },
+    {
       "path": "mods/desafio-1.0.0.jar",
       "sha1": "f3eff244b5dbfc1ba6e18ca98c7ed3602c34d113",
       "size": 2703392,

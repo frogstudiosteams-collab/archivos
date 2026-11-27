@@ -171,12 +171,6 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/f247960e97efdf986362.dat"
     },
     {
-      "path": "mods/adminrecipes-1.0.0.jar",
-      "sha1": "11ea21690a0970dbbce66ccb2ba32625662082a6",
-      "size": 34261,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/184770d5a87eb84184a2.dat"
-    },
-    {
       "path": "mods/architectury-9.2.14-forge.jar",
       "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
       "size": 580602,
@@ -193,6 +187,12 @@
       "sha1": "5135a6ebedd9d9b23e523bd2cda3f83559215008",
       "size": 48113,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/cb8c7f5467e5d8c97e25.dat"
+    },
+    {
+      "path": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e",
+      "size": 299726,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/60a6b6f68c0b671ef116.dat"
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -238,8 +238,8 @@
     },
     {
       "path": "mods/deathcore_mod-1.0.0.jar",
-      "sha1": "397edd28299d063604ca0a57a34f5ba3e30d10e0",
-      "size": 205704,
+      "sha1": "2022d51a38c2feba8cae76759e8c0d580f1750b8",
+      "size": 196285,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/7091697dcbd7fbdc8cd5.dat"
     },
     {
@@ -253,6 +253,12 @@
       "sha1": "722e12cf112ba3085aa4747aed67fef073be4319",
       "size": 315130,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/454f7d76b49b31b074ea.dat"
+    },
+    {
+      "path": "mods/deathcoremusica-1.0.0.jar",
+      "sha1": "aeb9d091086b4cb804aaec98ac519e0fc90c7e72",
+      "size": 50393884,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/29c1ed781ad3d3f1b04c.dat"
     },
     {
       "path": "mods/deathcoresounds-1.1.0.jar",
@@ -274,8 +280,8 @@
     },
     {
       "path": "mods/difficultymod-1.0.0.jar",
-      "sha1": "5698cb30fec706d0aa31f25e71a283729d9a2250",
-      "size": 34670,
+      "sha1": "92e904dfcc549e64c56487e6b1192fe855ca6a81",
+      "size": 34740,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5850ae415c7eea5f96bd.dat"
     },
     {
@@ -340,8 +346,8 @@
     },
     {
       "path": "mods/hermandad-1.0.0.jar",
-      "sha1": "f5ee4fade0c2e2f2d37564c5f07736b2a62f88eb",
-      "size": 112559,
+      "sha1": "74abf30e5649aebb5038fa7d31224398c7776dfd",
+      "size": 115337,
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/5e77f3811027dac7d9c7.dat"
     },
     {
@@ -435,10 +441,10 @@
       "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/d7a9cdf644419d4eb4f3.dat"
     },
     {
-      "path": "mods/revilmoments-1.2.1.jar",
-      "sha1": "acac125a49615284e0bbb9f3154fa6083bfc00be",
-      "size": 82379,
-      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/312c30375031f4174846.dat"
+      "path": "mods/revilmoments-1.2.2.jar",
+      "sha1": "7f00d75958fbb421de899e4abc375064b927f4d0",
+      "size": 81018,
+      "remote": "https://github.com/frogstudiosteams-collab/archivos/releases/download/mods-v1/89247004c99a1627e9be.dat"
     },
     {
       "path": "mods/ror-0.6-1.20.1-forge-forge-1.20.1.jar",
